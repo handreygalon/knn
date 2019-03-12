@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-venv_django
+venv_knn
 *.py[cod]
 *$py.class
 
